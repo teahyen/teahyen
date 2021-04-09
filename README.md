@@ -5,5 +5,7 @@
   * [런게임](https://github.com/teahyen/SlidGame)
   * [두더지 게임](https://github.com/teahyen/2D_with_Suan)
   * [다이어트용](https://github.com/teahyen/DiteDragon)
-  * [여러 기획서들](https://github.com/teahyen/My_plan)
   * [로그라이크](https://github.com/teahyen/Loglike)
+* 기획 모음
+  * [여러 기획서들](https://github.com/teahyen/My_plan)
+
