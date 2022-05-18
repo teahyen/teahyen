@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&&customColorList=0,2,3&height=300&section=header&text=TaehyenKim&fontSize=90)
-<h1 align="center">Game designer & Develop</h1>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&&customColorList=0,2,3&height=300&10000&text=TaehyenKim&fontSize=90)
 
+
+
+<h1 align="center">Game designer & Develop</h1>
 
 <h4 align="center"> 
 📝 I can to use multiple office programs.
