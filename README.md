@@ -19,6 +19,3 @@
 <h3 align="Lift"> Game Designer Tools:</h3>
 <p align="Lift"> </a> <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=Microsoft Word&logoColor=#0000" alt="word" width="100" height="40"/> <a align="center"> <a target="_blank" rel="noreferrer"> <a align="center"> </a> <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=#B7472A" alt="PowerPoint" width="180" height="40"/> <a align="center"> <a target="_blank" rel="noreferrer"> <a align="center"> </a> <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=#217346" alt="Exel" width="110" height="40"/> <a align="center"> <a target="_blank" rel="noreferrer">
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teahyen&langs_count=8)](https://github.com/teahyen/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teahyen&show_icons=true&theme=radical)
-
